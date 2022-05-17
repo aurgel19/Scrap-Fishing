@@ -1,1 +1,1 @@
-# Scrap-Fishing
+A game about a lonely boy collecting scrap to build a robot friend. The player controls a heavy-duty magnet to collect useful pieces of scrap. They can then use the scrap to upgrade their magnet and build pieces of their robot.
